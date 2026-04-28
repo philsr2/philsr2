@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @philsr2
-- 👀 I’m interested in Go Programming and Perl/ModPerl Programming as well.
-- 🌱 I’m currently learning Python.  Google's AI Automation with Python course on Coursera.
+- 👀 Currently studying AI Automation with Python on Coursera - module 3 of the Git course today.
 - 📫 Best email to reach me is phil681@yahoo.com
 - ⚡ Fun fact: On February 4, 2015, the band announced on its Facebook page and their official website that they were not splitting up, but were taking some time off to pursue other projects.
 
