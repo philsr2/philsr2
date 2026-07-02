@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philsr2
-- 👀 Finished AI Automation with Python on Coursera.
-- ** Now working on Data Analytics and banging on various side projects like my video streamer.  TODO: add repo for that today.
+- 👀 Finished AI Automation with Python on Coursera..
 - 📫 Best email to reach me is phil681@yahoo.com
+- ** Now working on Data Analytics and banging on various side projects like my video streamer.  
 - ⚡ Fun fact: *sigh*  That was pretty funny, there should be a laugh/no-laugh button on githut profiles...
 
 <!---
