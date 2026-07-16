@@ -3,7 +3,7 @@
 - 📫 Best email to reach me is phil681@yahoo.com
 - ** Found a Network Security course to do and still banging on various side projects like my video streamer.  
 - 
-- ⚡ Fun fact: *sigh*  That was pretty funny, there should be a laugh/no-laugh button on githut profiles...
+- ** Added my chat server and load watcher to my Websockets-experiments repo
 
 <!---
 philsr2/philsr2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
