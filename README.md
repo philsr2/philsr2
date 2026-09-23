@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @philsr2
 - 👀 Finished AI Automation with Python on Coursera.
-- 👀 Almost finished with Google Data Analytics with Python now too.
+- 👀 Finished Google Data Analytics.
+- 👀 Did another course called Automate Cybersecurity Tasks with Python <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6UFI5S6XLQX3/CERTIFICATE_LANDING_PAGE~6UFI5S6XLQX3.jpeg">cert</img>
 - 
 - 📫 Best email to reach me is phil681@yahoo.com
 - 
