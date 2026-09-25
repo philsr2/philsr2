@@ -6,7 +6,7 @@
 - 
 - 📫 Best email to reach me is phil681@yahoo.com
 - 
-- I've been doing more experiments with video lately.  I have been keeping a better log in my <a href="https://gohacker.info/daily-notes">Daily Notes</a>  Trying to maintain a more constant update of my activities, todo's and done's =)  Gotta have a done list to go with your todo list, right?
+- I've been doing more experiments with video lately.  I have been keeping a better log in my <a href="https://gohacker.info/daily_notes">Daily Notes</a>  Trying to maintain a more constant update of my activities, todo's and done's =)  Gotta have a done list to go with your todo list, right?
 It is more of a combo of personal journal, blog, and tech updates.  I mention our dog, family, and my struggle with ozempic (dont start it if you don't absolutely have to)  I think a todo app might be better if it shows notes and updates along the way documenting progress rather than a simple boolean status of done/not-done.  Something else to think about.
 
 - I may be changing that domain name after November when it expires.  Will see, something like realtime-systems dot something or rather, something that says websockets hacker without saying websockets hacker.
